@@ -1,9 +1,0 @@
-
-version: 2
-sources:
-  - name: this is my practice code
-  database:"{{('sales')}}"
-  schema:public
-
-  tables:
-     -name : album

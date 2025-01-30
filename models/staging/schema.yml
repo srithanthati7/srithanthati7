@@ -1,0 +1,17 @@
+
+version: 2
+sources:
+  - name: datafeed_shared_schema
+    database: "{{('sales')}}"
+    schema: public
+
+    tables:
+      - name: stores
+      - name: payments
+      - name: raw_products
+      - name: raw_orders_data
+
+
+
+       
+     
