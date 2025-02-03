@@ -11,6 +11,7 @@ sources:
       - name: raw_products
       - name: raw_orders_data
       - name: macro
+      - name: customers
 
 
 
